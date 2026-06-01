@@ -1,6 +1,6 @@
 # EX - 4 Auditing Cloud Activity Using AWS CloudTrail
-### Name : HARITHA RAMESH
-### Reg No : 212223100011
+### Name : Sushiendar M
+### Reg No : 212223040217
 ## Aim
 
 To enable and analyze AWS CloudTrail logs to audit user and resource activities in a cloud environment.
